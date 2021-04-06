@@ -123,9 +123,9 @@ else
 
 # Q10   What happens when an If statements conditional is not true?
 
-.A :  nothing 
+.A :  nothing *
 .B :  The If statement starts over 
-.C :  The If statement executes *
+.C :  The If statement executes 
 
 # Q11 . How to write an ‘if’ statement for executing some code.
 If “i” is NOT equal to 5?
